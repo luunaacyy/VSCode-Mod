@@ -1,7 +1,6 @@
 # Better VSCode Visual & Keymaps
-
 #
-
+#
 # Keymaps
 # Alt + 1 Hide Activity Bar
 # Alt + 2 Hide Explorer
